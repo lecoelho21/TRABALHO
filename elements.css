@@ -1,0 +1,61 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto Slab', serif; 
+ */
+ html {
+ 	font-size: 62%;
+ }
+
+ body {
+ 	font-family:'Roboto Slab', serif;
+ 	font-size: 16px;
+ 	background-image: url('../css/fundo-principal.svg');
+ 	background-size: cover;
+ 	background-position: center center; 
+ 	line-height: 1.5;
+ }	
+
+
+h1, h2, h3, h4, h5, h6 {
+	'Open Sans', sans-serif;
+}
+
+h1 {
+	font-size: 6rem; /*rem é px*10 */
+	text-transform: uppercase; /*Uppercase=letra maiuscula*/
+	/*background-image: url('../assets/f4life.png'); */
+}
+
+h2 {
+	font-size: 5.5rem; /*rem é px*10 */
+	text-transform: uppercase; /*Uppercase=letra maiuscula*/
+}
+
+h3 {
+	font-size: 5rem; /*rem é px*10 */
+	text-transform: uppercase; /*Uppercase=letra maiuscula*/
+}
+
+h4 {
+	font-size: 4.5rem; /*rem é px*10 */
+	text-transform: uppercase; /*Uppercase=letra maiuscula*/
+}
+
+h5 {
+	font-size: 4rem; /*rem é px*10 */
+	text-transform: uppercase; /*Uppercase=letra maiuscula*/
+}
+
+h6 {
+	font-size: 3.5rem; /*rem é px*10 */
+	text-transform: uppercase; /*Uppercase=letra maiuscula*/
+}
+
+a {
+	text-decoration: none;
+}
